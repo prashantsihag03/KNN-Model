@@ -13,7 +13,7 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
 ## Output ##
 Train set: 96
 Test set: 53
-> predicted='Iris-setosa', actual='Iris-setosa'<br>
+> predicted='Iris-setosa', actual='Iris-setosa'
 > predicted='Iris-setosa', actual='Iris-setosa'
 > predicted='Iris-setosa', actual='Iris-setosa'
 > predicted='Iris-setosa', actual='Iris-setosa'
